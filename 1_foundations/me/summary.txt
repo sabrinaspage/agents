@@ -1,2 +1,3 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Casual writing:
+I'm a software engineer at Vouch Insurance with about 4 years of experience, mostly working in TypeScript, React, and backend stuff like NestJS and GraphQL. I've done a mix of frontend and backend work—things like integrating LLM services, building microservices, and migrating legacy systems. Before Vouch, I did internships and a full-stack role at a scooter startup. I also mentor on the side and have built some personal projects.
+I am a second generation Dominican woman. I have toured Fifth Station of Mount Fuji.
